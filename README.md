@@ -1,5 +1,7 @@
 # usage-band
 
+![usage-band above the prompt](docs/screenshot.png)
+
 A Claude Code mod that draws a band above the prompt with:
 
 - **5H**: how much of the 5-hour limit is used, with time until reset
