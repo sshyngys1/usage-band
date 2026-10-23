@@ -1,0 +1,6 @@
+{
+  "name": "usage-band",
+  "version": "0.1.0",
+  "description": "Band above the prompt showing the 5-hour and weekly limits and tokens spent this session",
+  "types": "./types/index.d.ts"
+}
