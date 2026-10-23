@@ -2,6 +2,10 @@
 
 ![usage-band above the prompt](docs/screenshot.png)
 
+The bars change color as the limits fill up (animated illustration of the band):
+
+![usage-band colors: green, yellow above 70%, red above 80%](docs/demo.gif)
+
 A Claude Code mod that draws a band above the prompt with:
 
 - **5H**: how much of the 5-hour limit is used, with time until reset
